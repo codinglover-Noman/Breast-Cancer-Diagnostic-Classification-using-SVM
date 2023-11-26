@@ -1,4 +1,4 @@
-# Breast-Cancer-Diagnostic-Classification-using-SVM
+# Breast-Cancer-Diagnostic-Classification-using-Supervised Learning
 This project focuses on Breast Cancer Diagnostic Classification utilizing Supervised machine learning. 
 The primary objective is to achieve accurate and reliable diagnostic outcomes for breast cancer cases.
 
